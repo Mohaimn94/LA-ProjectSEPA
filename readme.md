@@ -1,4 +1,4 @@
-## SEPAproject
+## SEPAproject( Student Educational Performance Analysis )
 This project is for learning analytics course in UDE .
 <img src="https://github.com/Mohaimn94/LA-ProjectSEPA/blob/master/static/img/sepa.png"  width="200" height="170">
 
