@@ -28,8 +28,8 @@ This project is based on the following technologies:
   + [Highcharts](https://www.highcharts.com/)
   
 ## How to run the project:
-- Clone the repository
-- Configure the local database
+- Clone or download the repository
+- Configure the local database in your IDE
 - Install above libraries from Terminal
 - Run the project on the localhost
 ## Collaborators:
