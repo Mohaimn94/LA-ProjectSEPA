@@ -3,6 +3,7 @@ This project is for learning analytics course in UDE .
 <img src="https://github.com/Mohaimn94/LA-ProjectSEPA/blob/master/static/img/sepa.png"  width="200" height="170">
 
 youtube video about project
+https://youtu.be/gITrFJQYhfc
 
 ## Objectives
 - Explore educational performance of students  by using ready data set to perform some initial data  visualization.
