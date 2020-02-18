@@ -28,15 +28,14 @@ This project is based on the following technologies:
   + [Highcharts](https://www.highcharts.com/)
   
 ## How to run the project:
-<br>
 - Clone the repository
 - Configure the local database
 - Install above libraries from Terminal
 - Run the project on the localhost
 ## Collaborators:
-Mohaimn Al-Alshekh Alsagara
-Maral Goudarzi
-Meijie Li
-Farnoosh shahabbaspour 
+- Mohaimn Al-Alshekh Alsagara
+- Maral Goudarzi
+- Meijie Li
+- Farnoosh shahabbaspour 
 
   
