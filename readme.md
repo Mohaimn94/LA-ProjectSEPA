@@ -8,7 +8,7 @@ https://youtu.be/gITrFJQYhfc
 ## Objectives
 - Explore educational performance of students  by using ready data set to perform some initial data  visualization.
 - Predict the performance of students.
--  Apply KNN algorithms of machine learning to the data set in order to predict the performance of the student based on these characteristics.
+-  Apply KNN algorithm of machine learning to the data set in order to predict the performance of the student based on these characteristics.
 
 ## Dataset
 This project use this Dataset [Students' Academic Performance Dataset](https://www.kaggle.com/aljarah/xAPI-Edu-Data) .
