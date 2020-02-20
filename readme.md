@@ -18,27 +18,31 @@ We basicly used four different kinds of idioms to visualization our data.
 
 1.Pie Chart 
 -->task of Present distribution of the categorical attributes
--eg. dustribution of gender
+- eg. dustribution of gender
+
 <img src="https://github.com/Mohaimn94/LA-ProjectSEPA/blob/master/static/img/gender.PNG"  width="493" height="363" >
 
 2.Bar Chart 
 -->task of 1. Present distribution of the  categorical  attributes;
            2.Compare student’s performance
--eg. Nationality-Grade
+- eg. Nationality-Grade
+
 <img src="https://github.com/Mohaimn94/LA-ProjectSEPA/blob/master/static/img/nationality-Grade.PNG" >
 
 3.Stack Bar Chart
 -->task of 1.Present distribution of categorical attributes
            2.Compare student’s performance
            3.Show the Part-to-whole relationship
--eg. Gender-Grade
+- eg. Gender-Grade
+
 <img src="https://github.com/Mohaimn94/LA-ProjectSEPA/blob/master/static/img/gender-grade.PNG" >
          
 4.Box Plot
 -->task of 1.Present distribution of the numerical attributes
            2.Locate outliers
            3.Find Trends
--eg. Behavior-discussion-Grade
+- eg. Behavior-discussion-Grade
+
 <img src="https://github.com/Mohaimn94/LA-ProjectSEPA/blob/master/static/img/behabiour-discussion.PNG"   width="685" height="445">
 
 
