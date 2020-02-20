@@ -13,6 +13,10 @@ https://youtu.be/gITrFJQYhfc
 ## Dataset
 This project use this Dataset [Students' Academic Performance Dataset](https://www.kaggle.com/aljarah/xAPI-Edu-Data) 
 
+## Architechture of whole websit
+<img src="https://github.com/Mohaimn94/LA-ProjectSEPA/blob/master/static/img/Architechture.png"  width="200" height="170">
+
+
 ## Visualization
 We basicly used four different kinds of idioms to visualization our data.
 
