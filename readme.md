@@ -39,7 +39,7 @@ We basicly used four different kinds of idioms to visualization our data.
            2.Locate outliers
            3.Find Trends
 -eg. Behavior-discussion-Grade
-<img src="https://github.com/Mohaimn94/LA-ProjectSEPA/blob/master/static/img/behabiour-discussion.PNG">
+<img src="https://github.com/Mohaimn94/LA-ProjectSEPA/blob/master/static/img/behabiour-discussion.PNG"   width="685" height="445">
 
 
 
