@@ -87,10 +87,11 @@
                         <div>
                             <label for="Educational stage">4. Educational stage :</label>
                             <p>
+                            <select name="StageID" id="dropdown">
                                 {% for item in StageID %}
-                                <input checked name="StageID" type="radio" value="{{item['value']}}">{{item['name']}}<br>
-
+                                <option value="{{item['value']}}">{{item['name']}}</option>
                                 {% endfor %}
+                            </select>
                             </p>
                         </div>
                         <div>
