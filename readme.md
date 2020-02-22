@@ -19,14 +19,14 @@ This project use this Dataset [Students' Academic Performance Dataset](https://w
 
 
 ## Comuting KNN
-- First we need to change Categorical attribute to Ordered attribute
-<img src="https://github.com/Mohaimn94/LA-ProjectSEPA/blob/master/static/img/catoor.png"  width="560" height="297">
+- First we need to convert categorical attribute to ordered attribute
+<img src="https://github.com/Mohaimn94/LA-ProjectSEPA/blob/master/static/img/catoor.png"  width="460" height="497">
 
 - Testing the accuracy and Knn Classification
-<img src="https://github.com/Mohaimn94/LA-ProjectSEPA/blob/master/static/img/testing.png"  width="560" height="297">
+<img src="https://github.com/Mohaimn94/LA-ProjectSEPA/blob/master/static/img/testing.png"  width="640" height="497">
 
 - Saving KNN in pickle file 
-<img src="https://github.com/Mohaimn94/LA-ProjectSEPA/blob/master/static/img/knnpickle.png"  width="560" height="297">
+<img src="https://github.com/Mohaimn94/LA-ProjectSEPA/blob/master/static/img/knnpickle.png"  width="360" height="200">
 
 ## Visualization
 We basicly used four different kinds of idioms to visualization our data.
