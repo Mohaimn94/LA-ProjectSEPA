@@ -18,7 +18,7 @@ This project use this Dataset [Students' Academic Performance Dataset](https://w
 <img src="https://github.com/Mohaimn94/LA-ProjectSEPA/blob/master/static/img/Architechture.PNG"  width="560" height="297">
 
 
-## Comuting KNN
+## Computing KNN
 - First we need to convert categorical attribute to ordered attribute
 <img src="https://github.com/Mohaimn94/LA-ProjectSEPA/blob/master/static/img/catoor.png"  width="460" height="497">
 
@@ -26,7 +26,7 @@ This project use this Dataset [Students' Academic Performance Dataset](https://w
 <img src="https://github.com/Mohaimn94/LA-ProjectSEPA/blob/master/static/img/testing.png"  width="640" height="497">
 
 - Saving KNN in pickle file 
-<img src="https://github.com/Mohaimn94/LA-ProjectSEPA/blob/master/static/img/knnpickle.png"  width="360" height="200">
+<img src="https://github.com/Mohaimn94/LA-ProjectSEPA/blob/master/static/img/knnpickle.png"  width="260" height="100">
 
 ## Visualization
 We basicly used four different kinds of idioms to visualization our data.
